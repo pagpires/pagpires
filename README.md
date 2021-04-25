@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m applying ML to entity resolution & text mining
+- 🔭 I’m applying ML to systems intelligence and content search
 - 🌱 I’m currently learning MLOps and serverless
 - 👯 I’m looking to collaborate on ML-for-science and NLP pipelines
 - 💬 Ask me about ML/Genomics/Serverless
